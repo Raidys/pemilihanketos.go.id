@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surat Suara Pemilihan Gubernur dan Wakil Gubernur Kalimantan Selatan 2024</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Bendera Merah Putih Berkibar -->
+    <div class="flag-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Indonesia.svg" alt="Bendera Merah Putih" class="flag">
+    </div>
+
+    <!-- Judul Halaman -->
+    <header>
+        <h1>Surat Suara Pemilihan Gubernur dan Wakil Gubernur Kalimantan Selatan 2024</h1>
+    </header>
+
+    <!-- Kolom Kandidat -->
+    <section class="candidates">
+        <div class="candidate-column">
+            <h2>Kandidat 1</h2>
+            <p>Nama: H. Sahbirin Noor - Wakil Gubernur: Rudy Resnawan</p>
+            <p>Partai: Partai Demokrat</p>
+        </div>
+
+        <div class="candidate-column">
+            <h2>Kandidat 2</h2>
+            <p>Nama: Denny Indrayana - Wakil Gubernur: Gusti Muhammad Hatta</p>
+            <p>Partai: PKS</p>
+        </div>
+    </section>
+
+</body>
+</html>
